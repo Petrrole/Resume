@@ -73,7 +73,7 @@ _IT_:
 - Pandas  
 - Python Junior
 - Проектирование ER-диаграмм,  
-  реалиционных схем БД.
+  реляционных схем БД.
 
 _САПР_:  
 - Компас, Лоцман, AutodeskInventor, SolidWorks  
