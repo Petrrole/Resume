@@ -1,6 +1,6 @@
 
 ## Петров Алексей
-/* Добавить фото */
+![Petrov foto](Images/2021-04-09.jpg)  
 
 **Гражданство:**  
 РФ
@@ -88,18 +88,19 @@ _САПР_:
 **Повышение квалификации, курсы:**
 
 - _"Базы данных"_
-  Coursera / Санкт-Петербургский государственный университет
-  2021  
+  Coursera / Санкт-Петербургский государственный университет  
+  2021 г.  
 ![spb_DB](Images/Coursera%20RYYFZR44B9NY.png)  
 
 - _"The Unix Workbench"_  
   Johns Hopkins University / Coursera  
-  2020  
+  2021 г.  
 ![UNIX](Images/Coursera%20NWMV7BWX77AR.png)  
 
 
 - _"Основы Python для анализа данных"_  
   АНО ДПО "Корпоративный университет Сбербанка"  
+  2020 г.  
 ![SBRF Pandas](Images/dip_python_pandas.png)  
 
 - Проект _Focus Start_ ЦФТ(Центр Финансовых Технологий)  
